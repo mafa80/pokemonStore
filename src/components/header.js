@@ -16,9 +16,7 @@ const Header = ({ siteTitle }) => {
           <MenuItem margin>
             <Link to="/">Productos</Link>
           </MenuItem>
-          <MenuItem margin>
-            <a href="https://github.com/mafa80">GitHub</a>
-          </MenuItem>
+
           <MenuItem>
             <Link to="/cart">
               <span>

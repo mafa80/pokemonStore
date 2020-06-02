@@ -16,10 +16,7 @@ const Layout = ({ children }) => (
     <Header />
     <Content>
       <main>{children}</main>
-      <Footer>
-        Hecho con hambre por
-        <a href="https://github.com/mafa80">Emmanuel GithHub</a>
-      </Footer>
+      <Footer>Hecho por Carlos pastrana</Footer>
     </Content>
   </>
 )
